@@ -1,5 +1,7 @@
 # ViaCidadã — IoT e Redes
 
+[Acesso para protótipo no Tinkercard](https://www.tinkercad.com/things/6Q8RAz3rK3X-copy-of-cp1-iot-2tdsps/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=aEz81lQ-bf86FxPiYpHsHZAkvRVQ66MmInhKomyz75g)
+
 ## 1. Identificação do projeto
 
 **Projeto:** ViaCidadã  
